@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dương Trùng Dương.
 - 👀 I’m interested in security, hacking,devsecops, and cloud. 
 - 🌱 I’m currently learning cloud, machine learning, and security.
-- 📫 How to reach me : Email : duongtrungduong86@gmail.com. 
+- 📫 How to reach me : Email : duongtrungduongmew@gmail.com. 
 - ⚡ Fun fact: Every problem has a solution, you just haven't thought of it yet.
 
 <!---
